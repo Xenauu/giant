@@ -1,0 +1,7 @@
+name: GiantItems
+version: 1.0
+author: Xenau
+main: de.xenau.giantitems.GiantItems
+
+commands:
+  items:
